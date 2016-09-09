@@ -1,4 +1,4 @@
-25
+32
 ||| 
 
 Important:  Please be aware that your Hottbox is an "always on" device and as such is not design to be turned off. Please refrain from turning off your device unless it is absolutely necessary.  If you must turn it off, make sure you shutdown properly before unplugging, and whatever you do, please DO NOT use the power button on the supplied remote!  The proper way to shutdown is while you are still in Kodi, go to the power button at the bottom right of your TV screen and press that, then press the exit option and wait for Hottbox to save your settings.  When it's has completed it will kick you back to the original boot-up screen, then and only then is it safe to unplug.  Thank again for choosing Hottbox.
